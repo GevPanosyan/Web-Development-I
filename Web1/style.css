@@ -1,0 +1,88 @@
+.main{
+	width: 1000px;
+	margin: auto;
+	border: 3px solid black;
+	background-color: lightyellow;
+	padding: 5px;
+}
+.header{
+	height: 200px;
+	border-bottom: 1px solid black;
+}
+.logo{
+	width: 180px;
+	height: 180px;
+	margin: 20px 40px;
+	display: inline-block;
+}
+.numbers{
+	width: 500px;
+	height: 200px;
+	border: none;
+	display: inline-block;
+	position: absolute;
+	margin-left: 240px;
+}
+.phone{
+	width: 100px;
+	height: 80px;
+	margin:auto;
+	position: absolute;
+	margin: 70px 50px 50px 350px;
+}
+.phone p{
+	font-size: 20px;
+}
+.menu{
+	border-bottom: 3px solid black;
+	width: 1000px;
+	border-top: 5px solid black
+}
+.navitem{
+	list-style-type: none;
+	display: inline-block;
+	font-size:20px;
+	margin-right: 50px; 
+	background-color:white;
+}
+.investor{
+	width: 500px;
+	height: 400px;
+}
+.photo{
+	list-style-type: none;
+}
+.photo li{
+	display: inline-block;
+}
+.photo li img{
+	width: 150px;
+	height: 150px;
+}
+.images, .info{
+	display: inline-block;
+}
+.info{
+	display: inline-block;
+	width: 500px;
+	height: 200px;
+	position: absolute;
+}
+.info p{
+	height: 200px;
+	display: inline-block;
+}
+.first{
+	height: 600px;
+}
+.footer{
+	border-top: 3px solid black;
+}
+ p{
+	font-size: 20px;
+	margin: 5px;
+	font-family: 'Montserrat', sans-serif; 
+}
+body{
+	background-image: url(back.jpg);
+}
